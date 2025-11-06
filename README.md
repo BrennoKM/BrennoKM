@@ -51,7 +51,7 @@ Finalista de Ciência da Computação na UFERSA e Técnico em Informática, com 
 
 <div display="flex">
 <img src="https://github-readme-stats.vercel.app/api?username=BrennoKM&theme=dark&show_icons=true" alt="GitHub Stats" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrennoKM&hide_progress=false&theme=dark&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Top Languages" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrennoKM&hide=jupyter%20notebook&hide_progress=false&theme=dark&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Top Languages" width="48%">
 </div>
 
 ---
